@@ -1,0 +1,8 @@
+apake_bench
+*.o
+analysis/figures/
+results/**/*.csv
+results/**/*.log
+results/**/*.txt
+env/*.txt
+!**/.gitkeep
